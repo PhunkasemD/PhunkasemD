@@ -1,6 +1,6 @@
 ## Hello World! 
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=PhunkasemD&style=flat-square&color=blue" alt="Account Counter"/>
 
 <h2> &nbsp;Languages and Tools : </h2>
