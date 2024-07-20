@@ -13,12 +13,18 @@
   
 
 ### :woman_technologist: About Me :
-I am a student from PIM.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">: I would like to be a **Software Engineer** .
 
-- :seedling: I can do it.
+はじめまして！
+
+- :telescope: You can call me Bew.
+
+- :seedling: I am a student from PIM.
+  
+              I’m at the moment majoring in Computer Engineering and artificial intelligence.
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I would like to be a **Software Engineer** .
 
 - :zap: In my free time, I read novels and watch animations. Sometimes I always Find out more.
 
-- :telescope: *return 0;*
+ *return 0;*
 
