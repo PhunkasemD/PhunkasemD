@@ -13,12 +13,12 @@
   
 
 ### :woman_technologist: About Me :
-I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from PIM.
-- :Teacup: I would like to be a **Software Engineer**.
+I am a student from PIM.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">: I would like to be a **Software Engineer** .
 
 - :seedling: I can do it.
 
 - :zap: In my free time, I read novels and watch animations. Sometimes I always Find out more.
 
-- :Twinkles or sparkles: *return 0;*
+- :telescope: *return 0;*
 
