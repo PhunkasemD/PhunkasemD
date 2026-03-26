@@ -19,9 +19,7 @@
   
 - :mailbox: I’m at the moment majoring in Computer Engineering and Artificial Intelligence.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I would like to be a **Software Engineer** .
-
-- :zap: In my free time, I read novels and watch animations. Sometimes I always find out more.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I would like to be a **AI Engineer** .
 
  *return 0;*
 
