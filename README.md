@@ -21,5 +21,3 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I would like to be a **AI Engineer** .
 
- *return 0;*
-
