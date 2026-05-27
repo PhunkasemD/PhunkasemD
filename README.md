@@ -7,11 +7,11 @@
 
 はじめまして！
 
-- :telescope: You can call me Bew.
+- You can call me Bew.
 
-- :seedling: I am a student from PIM.
+- I am a student from PIM.
   
-- :mailbox: I’m at the moment majoring in Computer Engineering and Artificial Intelligence.
+- I’m at the moment majoring in Computer Engineering and Artificial Intelligence.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I would like to be a **AI Engineer** .
+- I would like to be a **AI Engineer** .
 
